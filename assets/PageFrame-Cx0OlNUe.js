@@ -1,0 +1,1 @@
+import{k as e}from"./store-Gdg5iX4E.js";var t=e();function n({children:e}){return(0,t.jsx)(`div`,{className:`page-glow min-h-0 flex-1 overflow-y-auto`,children:(0,t.jsx)(`div`,{className:`mx-auto w-full max-w-6xl px-5 pb-16 pt-5 sm:px-8 sm:py-9`,children:e})})}export{n as t};

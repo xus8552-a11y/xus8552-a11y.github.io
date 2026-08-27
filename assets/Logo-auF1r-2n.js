@@ -1,0 +1,1 @@
+import{C as e,k as t}from"./store-Gdg5iX4E.js";var n=t();function r({className:t}){return(0,n.jsx)(`img`,{src:`/logo.png`,alt:`光枢`,className:e(`object-contain`,t)})}export{r as t};
